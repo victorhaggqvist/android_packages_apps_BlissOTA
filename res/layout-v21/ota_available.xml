@@ -102,6 +102,7 @@
                     android:id="@+id/tv_available_changelog_content"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:autoLink="web"
                     android:singleLine="false"
                     android:text="@string/available_changelog_content"
                     android:textAppearance="?android:attr/textAppearanceSmall"
